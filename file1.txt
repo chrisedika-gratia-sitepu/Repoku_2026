@@ -1,1 +1,2 @@
 Ini adalah file pertama 
+File ini diedit langsung melalui GitHub.
